@@ -9,6 +9,50 @@ namespace testingandlearning
 {
     class Program
     {
+
+        static void Main(string[] args)
+        {
+            //Point p = new Point(10, 20);
+
+            //p._x = 100;
+            //p._y = 200;
+
+            //Point rupeeSpawnPos = new Point(startX: 5, startY: 5);
+            //Rupee myRupee = new Rupee(
+            //    position: rupeeSpawnPos, 
+            //    color: ConsoleColor.Green, 
+            //    moneyValue: 10
+            //    );
+            //do this if line is too long
+
+
+
+            //Console.BackgroundColor = myRupee.GetColor();
+
+            //Point rupeePoint = myRupee.GetPosition();
+            //Console.SetCursorPosition(rupeePoint.GetX(), rupeePoint.GetY());
+
+            //Console.Write(" ");
+            //Console.ReadKey();
+
+            //rectangle class in another file
+
+            //Rectangle rect = new Rectangle();
+
+
+            //float recWidth = rect.Width;
+
+            //Console.ReadKey();
+            //
+
+
+            //chaining
+            //Enemy e = new Enemy(health: 100);
+
+        }
+
+
+
         //structs and classes
 
         //scrcut == value type
@@ -69,40 +113,35 @@ namespace testingandlearning
         //    }
         //}
 
-        static void Main(string[] args)
-        {
-            //Point p = new Point(10, 20);
+        //Constructor Chaining
 
-            //p._x = 100;
-            //p._y = 200;
+        //class Enemy
+        //{
+        //    private int _health;
+        //    private int _maxHealth;
 
-            //Point rupeeSpawnPos = new Point(startX: 5, startY: 5);
-            //Rupee myRupee = new Rupee(
-            //    position: rupeeSpawnPos, 
-            //    color: ConsoleColor.Green, 
-            //    moneyValue: 10
-            //    );
-            //do this if line is too long
+        //    public Enemy(int health)
+        //    {
+        //        _health = health;
+        //        _maxHealth = health;
+        //    }
 
+        //    //gives default option
+        //    //public Enemy()
+        //    //{
+        //    //    _health = 100;
+        //    //    _maxHealth = 100;
+        //    //}
+        //}
 
+        //class ExplosiveEnemy : Enemy
+        //{
+        //    private float _explosionRadius;
+        //    public ExplosiveEnemy(int health, float explRadius) : base(health)
+        //    {
+        //        _explosionRadius = 1;
+        //    }
+        //}
 
-            //Console.BackgroundColor = myRupee.GetColor();
-
-            //Point rupeePoint = myRupee.GetPosition();
-            //Console.SetCursorPosition(rupeePoint.GetX(), rupeePoint.GetY());
-
-            //Console.Write(" ");
-            //Console.ReadKey();
-
-            //rectangle class in another file
-
-            Rectangle rect = new Rectangle();
-
-
-            float recWidth = rect.Width;
-
-            Console.ReadKey();      
-
-        }
     }
 }

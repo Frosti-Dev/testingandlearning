@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\school\\programming code\\testingandlearning\\testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|C:\\school\\programming code\\testingandlearning\\testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "testingandlearning\\Program.cs",
               "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Program.cs",
               "RelativeToolTip": "testingandlearning\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T14:35:46.102Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "testingandlearning\\Rectangle.cs",
               "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Rectangle.cs",
               "RelativeToolTip": "testingandlearning\\Rectangle.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T15:09:58.21Z",
               "EditorCaption": ""
