@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Win32;
@@ -9,9 +11,11 @@ namespace testingandlearning
 {
     class Program
     {
+        //public static Player player;
 
         static void Main(string[] args)
         {
+            #region Classes and Structs
             //Point p = new Point(10, 20);
 
             //p._x = 100;
@@ -45,103 +49,43 @@ namespace testingandlearning
             //Console.ReadKey();
             //
 
-
             //chaining
             //Enemy e = new Enemy(health: 100);
+            #endregion
+
+
+            #region Interactables
+
+            //Health health = new Health();
+
+            //IDamageable damageable = new Health();
+
+            //IDamageable barricade = new Barricade();
+
+            //raycast at something
+            //see if any components on gameobject are IInteractable
+            //if they are (meaning , they have signed a contract)
+            //Interact Method
+            //if player presses E
+            //We call IInteractable.Interact();
+
+            //player = new Player();
+
+            //Character trollBoss = new GiantTrollBoss();
+
+            //if(trollBoss is IPartyMember member)
+            //{
+            //    Debug.WriteLine("Yes trollboss implements IPartyMember");
+
+            //    player.AddPartyMember(member);
+            //}
+
+            //IPartyMember navi = new Navi();
+
+            //player.AddPartyMember(navi);
+
+            #endregion
 
         }
-
-
-
-        //structs and classes
-
-        //scrcut == value type
-        //class == reference type
-
-        //struct Point //could also be class. Functionally they are the same thing.
-        //{
-        //    //constructor
-        //    public Point(int startX, int startY)
-        //    {
-        //        _x = startX;
-        //        _y = startY;
-        //    }
-
-        //    int _x;
-
-        //    public int GetX()
-        //    {
-        //        return _x;
-        //    }
-
-        //    int _y;
-
-        //    public int GetY()
-        //    {
-        //        return _y;
-        //    }
-
-        //}
-
-        //class Rupee
-        //{
-        //    //constructor
-        //    //contructor is a special method that gets called when we instantiate a rupee.
-        //    public Rupee(Point position, ConsoleColor color, int moneyValue)
-        //    {
-        //        _position = position;
-        //        _color = color; 
-        //        _moneyValue = moneyValue;
-        //    }
-
-        //    Point _position;
-        //    public Point GetPosition()
-        //    {
-        //        return _position;
-        //    }
-
-        //    ConsoleColor _color;
-        //    public ConsoleColor GetColor()
-        //    {
-        //        return _color;
-        //    }
-
-        //    int _moneyValue;
-        //    public int GetMoneyValue()
-        //    {
-        //        return _moneyValue;
-        //    }
-        //}
-
-        //Constructor Chaining
-
-        //class Enemy
-        //{
-        //    private int _health;
-        //    private int _maxHealth;
-
-        //    public Enemy(int health)
-        //    {
-        //        _health = health;
-        //        _maxHealth = health;
-        //    }
-
-        //    //gives default option
-        //    //public Enemy()
-        //    //{
-        //    //    _health = 100;
-        //    //    _maxHealth = 100;
-        //    //}
-        //}
-
-        //class ExplosiveEnemy : Enemy
-        //{
-        //    private float _explosionRadius;
-        //    public ExplosiveEnemy(int health, float explRadius) : base(health)
-        //    {
-        //        _explosionRadius = 1;
-        //    }
-        //}
-
     }
 }

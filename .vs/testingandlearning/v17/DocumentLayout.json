@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\school\\programming code\\testingandlearning\\testingandlearning\\classesandinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\classesandinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|C:\\school\\programming code\\testingandlearning\\testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +32,28 @@
               "RelativeDocumentMoniker": "testingandlearning\\Program.cs",
               "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Program.cs",
               "RelativeToolTip": "testingandlearning\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T14:35:46.102Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClassesAndInterfaces.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
+              "RelativeDocumentMoniker": "testingandlearning\\ClassesAndInterfaces.cs",
+              "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
+              "RelativeToolTip": "testingandlearning\\ClassesAndInterfaces.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:53:40.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Rectangle.cs",
               "RelativeDocumentMoniker": "testingandlearning\\Rectangle.cs",
