@@ -5,3 +5,11 @@ C:\school\programming code\testingandlearning\testingandlearning\obj\Debug\testi
 C:\school\programming code\testingandlearning\testingandlearning\obj\Debug\testingandlearning.csproj.CoreCompileInputs.cache
 C:\school\programming code\testingandlearning\testingandlearning\obj\Debug\testingandlearning.exe
 C:\school\programming code\testingandlearning\testingandlearning\obj\Debug\testingandlearning.pdb
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\bin\Debug\testingandlearning.exe.config
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\bin\Debug\testingandlearning.exe
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\bin\Debug\testingandlearning.pdb
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\obj\Debug\testingandlearning.csproj.AssemblyReference.cache
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\obj\Debug\testingandlearning.exe.config
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\obj\Debug\testingandlearning.csproj.CoreCompileInputs.cache
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\obj\Debug\testingandlearning.exe
+C:\Users\w0527459\Documents\testingandlearning\testingandlearning\obj\Debug\testingandlearning.pdb

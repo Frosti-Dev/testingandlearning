@@ -86,6 +86,13 @@ namespace testingandlearning
 
             #endregion
 
+
+            #region Singleton Pattern
+
+            //GameManager.Instance.WriteStuff();
+
+            //Console.ReadKey();
+            #endregion
         }
     }
 }

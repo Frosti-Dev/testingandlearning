@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\school\\programming code\\testingandlearning\\",
+  "WorkspaceRootPath": "C:\\Users\\w0527459\\Documents\\testingandlearning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\school\\programming code\\testingandlearning\\testingandlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\users\\w0527459\\documents\\testingandlearning\\testingandlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\school\\programming code\\testingandlearning\\testingandlearning\\classesandinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|c:\\users\\w0527459\\documents\\testingandlearning\\testingandlearning\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\classesandinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\classesandinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|C:\\school\\programming code\\testingandlearning\\testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DAE270-D4BA-4EB1-8C72-8E7623ACA2A9}|testingandlearning\\testingandlearning.csproj|solutionrelative:testingandlearning\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\Program.cs",
               "RelativeDocumentMoniker": "testingandlearning\\Program.cs",
-              "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Program.cs",
+              "ToolTip": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\Program.cs",
               "RelativeToolTip": "testingandlearning\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T14:35:46.102Z",
               "IsPinned": true,
@@ -41,27 +45,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\GameManager.cs",
+              "RelativeDocumentMoniker": "testingandlearning\\GameManager.cs",
+              "ToolTip": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\GameManager.cs",
+              "RelativeToolTip": "testingandlearning\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:43:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ClassesAndInterfaces.cs",
-              "DocumentMoniker": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
               "RelativeDocumentMoniker": "testingandlearning\\ClassesAndInterfaces.cs",
-              "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
+              "ToolTip": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\ClassesAndInterfaces.cs",
               "RelativeToolTip": "testingandlearning\\ClassesAndInterfaces.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwNcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T14:53:40.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\Rectangle.cs",
               "RelativeDocumentMoniker": "testingandlearning\\Rectangle.cs",
-              "ToolTip": "C:\\school\\programming code\\testingandlearning\\testingandlearning\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\w0527459\\Documents\\testingandlearning\\testingandlearning\\Rectangle.cs",
               "RelativeToolTip": "testingandlearning\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwBoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T15:09:58.21Z"
+              "WhenOpened": "2026-01-09T15:09:58.21Z",
+              "EditorCaption": ""
             }
           ]
         }
