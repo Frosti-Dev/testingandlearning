@@ -93,6 +93,90 @@ namespace testingandlearning
 
             //Console.ReadKey();
             #endregion
+
+
+            #region Delegates
+            //Delegate is a type that stores methods. Can store mulitiple methods.
+
+            //Action -> action is a built in delegate type that c# gives us.
+            //95% of 'event' scenarios, we can use Action!
+
+            //Action myAction = null;
+
+            //myAction += Method1;
+            //myAction += Method2;
+
+
+            ///Long form of null check
+            //if (myAction != null)
+            //{
+            //    myAction(); //shortform of myAction.Invoke();
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("myAction = null. Couldn't invoke!");
+            //}
+
+            /// ? null conditional operator
+
+            //myAction?.Invoke(); //short form
+
+            //Console.WriteLine("removing method1");
+
+            //myAction -= Method1;
+
+            //myAction();
+
+            //Console.ReadKey();
+
+            ///Object ref with Actions
+            
+            //Player player = new Player();
+
+            ////Enemy enemy = new Enemy(player);
+
+            //List<Enemy> allEnemies = new List<Enemy>();
+
+            //for(int i = 0; i <10; i++)
+            //{
+            //    Enemy e = new Enemy(player);
+            //    allEnemies.Add(e);
+            //}
+
+            ////for each enemey
+            //    //if theyre dead,
+            //    //enemy.Unsubscribe()
+            //    //remove them from the list
+
+            /////Garbage collector would realize that the removed enemy no long is referenced
+            //    //by any other objects
+            //    //it would free up the memory
+
+
+            /////in unity;
+            //    //OnEnable: subscribe to event on enable
+            //    //OnDisable: unsubscribe to event on disable
+
+
+            //player.TakeDamage(10);
+
+            //Console.ReadKey();
+
+            #endregion
         }
+
+        #region Action Methods
+        static void Method1()
+        {
+            Console.WriteLine("called method1");
+        }
+
+        static void Method2()
+        {
+            Console.WriteLine("called method2");
+        }
+        #endregion
+
     }
 }

@@ -133,7 +133,7 @@ namespace testingandlearning
         public int _attackPower;
     }
 
-    class Enemy : Character
+    class Enemy1 : Character
     {
         //enemy stuff
     }
@@ -143,7 +143,7 @@ namespace testingandlearning
         //npc stuff
     }
 
-    class GiantTrollBoss : Enemy, IPartyMember
+    class GiantTrollBoss : Enemy1, IPartyMember
     {
         public void FollowPlayer()
         {
@@ -163,7 +163,7 @@ namespace testingandlearning
         }
     }
 
-    class Player : Character
+    class Player1 : Character
     {
         List<IPartyMember> _partymembers = new List<IPartyMember>();
 
